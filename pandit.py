@@ -220,7 +220,7 @@ logo=(f"""\x1b[38;5;46m
 \033[1;97m[•] 🅅🄴🅁🅂🄸🄾🄽     : 1.1
 \033[1;97m[•] 🅂🅃🄰🅃🅄🅂      : \x1b[38;5;46m🄵🅁🄴🄴
 {WHITE}================================================
-\x1b[38;5;46m Pandit Facebook ka king haters ka Baap 
+\x1b[38;5;46m PANDIT X RAJAT X FAIZ X JARRY XNITIN
 {WHITE}=================================================""")
 
 def linex():
@@ -320,7 +320,7 @@ def menu():
 def pak():
                 user=[]
                 clear()
-                print('\033[1;32m CODE EXAMPLE : 0306,0315,0335,0345')
+                print('\033[1;32m CODE EXAMPLE : 9935,9922,5013,9081,9323')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;32m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
